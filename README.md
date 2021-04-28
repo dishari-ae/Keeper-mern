@@ -4,7 +4,7 @@ A simple full stack application with MERN.
 
 ## Resources
 
-I watched a bunch of youtube videos from (Traversy Media)[https://www.youtube.com/user/TechGuyWeb] channel and made these scripts.
+I watched a bunch of youtube videos from [Traversy Media](https://www.youtube.com/user/TechGuyWeb) channel and made these scripts.
 
 ```bash
 # Install dependencies for server
